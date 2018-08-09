@@ -8,9 +8,9 @@ url: 'http://yujincheng.github.io' # your host
 baseurl: ''
 
 # Navigation links
-nav:
-  home: '/'
-  tags: '/tags.html'
+# nav:
+#   home: '/'
+#   tags: '/tags.html'
 
 # Footer
 footer:
@@ -23,7 +23,7 @@ bio: '但行好事，不问前程的年轻人'
 avatar: '/assets/img/profile.jpg'
 
 # Search
-search: true
+search: false
 
 # Night mode
 nightMode: true
@@ -33,14 +33,14 @@ comments:
   disqus: false
   disqus_url: 'https://host1.yujincheng.me/embed.js'
   # disqus_url: 'https://yujincheng.disqus.com/embed.js'
-  livere: true
-  valine: true
+  livere: false
+  valine: false
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
 
 # Share
-social-share: true
+social-share: false
 social-share-items: ['wechat', 'weibo']
 
 # theme color 主题皮肤
@@ -55,10 +55,10 @@ sns:
   # weibo: '//weibo.com/lovecolcol'
   # juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
   # instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/yujincheng'
+  # github: '//github.com/yujincheng'
 
 # Tags 设置标签
-recommend-tags: true # whether or not display recommend-tags on the sidebar
+recommend-tags: false # whether or not display recommend-tags on the sidebar
 recommend-condition-size: 12 # a tag will be recommended if the size of it is more than this value
 
 # Build settings

@@ -2,7 +2,7 @@
 layout: post
 title: STM32 + LWIP + UCOS 实现 webserver
 date: 2018-8-3
-author: 阿金
+author: 余金城
 cover: https://www.micrium.com/wp-content/themes/micrium_theme_2017/images/product_logos/product_logo_ucos.png
 tags: 嵌入式
 ---

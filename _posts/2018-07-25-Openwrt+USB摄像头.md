@@ -2,7 +2,7 @@
 layout: post
 title: OPENWRT + USB摄像头 网页显示
 date: 2018-07-25
-author: 阿金
+author: 余金城
 cover: https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3590010943,200237664&fm=27&gp=0.jpg
 tags: 嵌入式 技术
 ---
